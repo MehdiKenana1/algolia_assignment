@@ -1,0 +1,5 @@
+.venv
+.DS_Store
+logs
+dags.__pycache__
+tests.__pycache__

@@ -1,0 +1,5 @@
+apache-airflow
+boto3
+pandas
+pytest
+sqlalchemy
